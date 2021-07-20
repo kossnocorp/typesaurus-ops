@@ -1,0 +1,4 @@
+{
+  "module": "../esm/processDocs/index.js",
+  "sideEffects": false
+}
